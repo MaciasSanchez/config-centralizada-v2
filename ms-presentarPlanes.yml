@@ -3,4 +3,4 @@ server:
 
 uri:
   es-plancomercial: http://localhost:8075
-  es-valoresconfigurables: http://localhost:8051
+  es-valoresconfigurables: http://localhost:8043
