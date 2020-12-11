@@ -1,9 +1,5 @@
 server:
   port: 8085
-springdoc:
-  packages-to-scan: com.righttek.es.intentoslogin.controller
-  pathsToMatch: /v1, /api/es/intentosLogin/**
-
 
 spring:
   datasource:
