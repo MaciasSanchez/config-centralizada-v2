@@ -2,5 +2,4 @@ server:
   port: 8108
 
 uri:
-
   es-token: http://localhost:8061
