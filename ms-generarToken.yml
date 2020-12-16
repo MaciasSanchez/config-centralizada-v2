@@ -1,0 +1,5 @@
+server:
+  port: 8303
+
+uri:
+  es-token: http://localhost:8076
