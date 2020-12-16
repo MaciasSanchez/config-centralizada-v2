@@ -2,4 +2,4 @@ server:
   port: 8303
 
 uri:
-  es-token: http://localhost:8076
+  es-token: http://localhost:8061
