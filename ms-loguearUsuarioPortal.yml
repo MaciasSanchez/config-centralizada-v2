@@ -1,10 +1,5 @@
 server:
   port: 8104
-  
-
-# OpenAPI 
-springdoc:
-  packages-to-scan: com.righttek.ms.loguearusuarioportal.controller
 
 uri:
   ConsultarUsuario: "http://localhost:8076"
