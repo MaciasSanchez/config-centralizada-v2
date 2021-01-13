@@ -6,4 +6,4 @@ uri:
   
   es-valoresconfigurables: http://localhost:8043
   es-usuario: http://localhost:8075
-  es-intentosLogin: http://localhost:8075
+  es-intentosLogin: http://localhost:8085
