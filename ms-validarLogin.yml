@@ -4,4 +4,4 @@ server:
 uri:
   es-valoresconfigurables: http://localhost:8043
   es-usuario: http://localhost:8076
-  es-intentosLogin: http://localhost:8085
+  es-intentoslogin: http://localhost:8085
