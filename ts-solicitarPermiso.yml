@@ -12,7 +12,7 @@ uri:
   valoresConfigurables: "http://localhost:8043"
   plantillaNotificacion: "http://localhost:8079"
   solicitudPermiso: "http://localhost:8058"
-  permiso: "http://localhost:8079"
+  permiso: "http://localhost:8060"
   us-enviarcorreo: "http://localhost:8889"
   cargaArchivo: "http://localhost:8032"
   solicitudLegado: "http://localhost:8085"
