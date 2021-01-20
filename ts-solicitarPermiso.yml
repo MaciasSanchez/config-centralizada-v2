@@ -7,13 +7,13 @@ springdoc:
   
 # SERVICIOS A CONSUMIR
 uri:
-  empleado: http://localhost:8072
-  solicitud: http://localhost:8058
-  valoresConfigurables: http://localhost:8043
-  plantillaNotificacion: http://localhost:8079
-  solicitudPermiso: http://localhost:8058
-  permiso: http://localhost:8079
-  us-enviarcorreo: http://localhost:8889
-  cargaArchivo: http://localhost:8032
-  solicitudLegado: http://localhost:8085
+  empleado: "http://localhost:8072"
+  solicitud: "http://localhost:8058"
+  valoresConfigurables: "http://localhost:8043"
+  plantillaNotificacion: "http://localhost:8079"
+  solicitudPermiso: "http://localhost:8058"
+  permiso: "http://localhost:8079"
+  us-enviarcorreo: "http://localhost:8889"
+  cargaArchivo: "http://localhost:8032"
+  solicitudLegado: "http://localhost:8085"
 
