@@ -7,5 +7,5 @@ uri:
   permiso: "http://localhost:8060"
   plantillaNotificacion: "http://localhost:8079"
   solicitudPermiso: "http://localhost:8058"
-  enviarCorreo: "http://localhost:8083"
+  enviarCorreo: "http://localhost:8889"
   solicitudLegado: "http://localhost:8085"
