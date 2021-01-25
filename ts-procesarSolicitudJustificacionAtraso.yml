@@ -4,7 +4,7 @@ server:
 # SERVICIOS A CONSUMIR
 uri:
   empleado: "http://localhost:8072"
-  nominaExterna:: "http://localhost:8082"
+  nominaExterna: "http://localhost:8082"
   plantillaNotificacion: "http://localhost:8079"
   solicitudJustificacionAtraso: "http://localhost:8058"
   enviarCorreo: "http://localhost:8889"
