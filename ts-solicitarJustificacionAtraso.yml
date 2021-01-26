@@ -7,5 +7,5 @@ uri:
   cargaArchivo: "http://localhost:8032"
   valoresConfigurables: "http://localhost:8051"
   plantillaNotificacion: "http://localhost:8079"
-  solicitudJustificacionAtraso: "http://localhost:8058"
+  solicitudJustificacionAtraso: "http://localhost:8059"
   enviarCorreo: "http://localhost:8889"
