@@ -5,7 +5,7 @@ server:
 uri:
   empleado: "http://localhost:8072"
   cargaArchivo: "http://localhost:8032"
-  valoresConfigurables: "http://localhost:8051"
+  valoresConfigurables: "http://localhost:8043"
   plantillaNotificacion: "http://localhost:8079"
   solicitudJustificacionAtraso: "http://localhost:8059"
   us-enviarcorreo: "http://localhost:8889"
