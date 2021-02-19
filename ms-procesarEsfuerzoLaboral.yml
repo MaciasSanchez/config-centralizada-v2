@@ -1,0 +1,7 @@
+server:
+  port: 8109
+
+uri:
+  es-empleado: "http://localhost:8072"
+  es-esfuerzoLaboral: "http://localhost:8072"
+  us-nominaExterna: "http://localhost:8072"
