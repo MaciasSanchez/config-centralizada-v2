@@ -4,4 +4,4 @@ server:
 uri:
   es-empleado: "http://localhost:8072"
   es-esfuerzoLaboral: "http://localhost:8073"
-  us-nominaExterna: "http://localhost:8072"
+  us-nominaExterna: "http://localhost:8082"
