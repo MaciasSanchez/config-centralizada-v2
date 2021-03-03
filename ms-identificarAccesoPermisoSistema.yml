@@ -1,0 +1,6 @@
+server:
+  port: 8108
+  
+# SERVICIOS A CONSUMIR
+uri:
+  es-caracteristicaSistemaPerfil: "http://localhost:8067"
