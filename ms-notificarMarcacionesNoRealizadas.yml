@@ -5,4 +5,4 @@ uri:
   es-empresa: "http://localhost:8076"
   es-equipotrabajo: "http://localhost:8068"
   es-marcacion: "http://localhost:8071"
-  
+  es-empleado: "http://localhost:8072" 
