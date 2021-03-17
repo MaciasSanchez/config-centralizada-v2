@@ -7,5 +7,5 @@ springdoc:
   packages-to-scan: com.righttek.ms.loguearusuarioportal.controller
 
 uri:
-  ConsultarUsuario: "http://localhost:8076"
+  ms-validarlogin: "http://localhost:8202"
 
