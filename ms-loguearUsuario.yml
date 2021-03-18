@@ -1,0 +1,7 @@
+server:
+  port: 8103
+
+uri:
+  ms-validarlogin: http://localhost:8202
+  es-usuario: http://localhost:8076
+  es-historicomovil: http://localhost:8077
