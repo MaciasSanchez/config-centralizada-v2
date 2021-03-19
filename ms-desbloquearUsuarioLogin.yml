@@ -1,0 +1,6 @@
+server:
+  port: 8115
+
+uri:
+  es-valoresconfigurables: http://localhost:8043
+  es-intentoslogin: http://localhost:8085
